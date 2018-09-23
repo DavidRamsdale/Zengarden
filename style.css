@@ -102,7 +102,7 @@ p {
   }
 
   h2{
-      text-align: center;
+    text-align: center;
   }
 
   h3{
@@ -114,9 +114,50 @@ footer {
     grid-template-columns: repeat(5, 1fr);
     background-color: grey;
     text-align: center;
-    width:100%;
+	width:100%;
+	height: 50px;
+	
 }
-footer a{
-    
-    
+.zen-validate-html{
+	background-image: url("html.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.zen-validate-css{
+	background-image: url("css.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+}
+.zen-license{
+	background-image: url("html.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.zen-accessibility{
+	background-image: url("html.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
+.zen-github{
+	background-image: url("html.png");
+	background-repeat: no-repeat;
+	background-position: center;
+	text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
 }
